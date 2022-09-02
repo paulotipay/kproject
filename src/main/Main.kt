@@ -1,6 +1,4 @@
-fun main(){
-    println("hello")
-    println("yopop")
 
-    print("b")
+fun main(){
+    var x:Int = 5
 }
